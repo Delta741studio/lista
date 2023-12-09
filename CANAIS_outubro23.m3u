@@ -1,142 +1,142 @@
 #EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-#EXTINF:-1,DUBAI RACING 2
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Music Top
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,Dw
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
-#EXTINF:-1,Tv Evangelizar
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1, 🇵🇹 SIC ᴴᴰ
+#EXTINF:-1, tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1, 🇺🇸 FOX NEWS ᴴᴰ
+#EXTINF:-1, tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1, RED BULL TV
+#EXTINF:-1, tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,Combate HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://209.222.97.92:16493
-#EXTINF:-1,Premiere 2
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://185.150.190.225:16464
-#EXTINF:-1,Premiere 3
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://185.150.190.225:16468
-#EXTINF:-1,Premiere 4
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://185.150.190.225:16472
-#EXTINF:-1,Premiere 5
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://185.150.190.225:16476
-#EXTINF:-1,"Premiere 6
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://185.150.190.225:16482
-#EXTINF:-1,Viva FHD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:16884
-#EXTINF:-1,ANIMAL PLANET SD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:16192
-#EXTINF:-1,CARTOONITO HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:14682
-#EXTINF:-1,"CARTOONNETWORK HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:14687/
-#EXTINF:-1,"FX HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:16043/
-#EXTINF:-1,"A&E HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:16002/
-#EXTINF:-1,AMC
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:16004
-#EXTINF:-1,GLOBO
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:16020
-#EXTINF:-1,SBT HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://209.222.97.92:16173
-#EXTINF:-1,Globo News HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://209.222.97.92:16436
-#EXTINF:-1,RedeVIVA
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://185.150.190.225:14071
-#EXTINF:-1,FashionTV
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://185.150.190.225:14961
-#EXTINF:-1,Globo HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://15.235.55.115:14107
-#EXTINF:-1,SBT HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://199.127.60.83:16170
-#EXTINF:-1,DUBAI RACING 2
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Music Top
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1, TV Evangelizar | BR
+#EXTINF:-1, tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,GLOBO BA HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:-1,GLOBO NSC HD
 http://191.37.250.169:8801/live/NSC/720p.m3u8
-#EXTINF:-1,RBC HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://rbc.directradios.com:1935/rbc/rbc_720p/chunklist_w1402236873.m3u8
-#EXTINF:-1,REDETV TO HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1,TERRA VIVA HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
-#EXTINF:-1,TV CULTURA PR HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
-#EXTINF:-1,TVE RS FHD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w246282235.m3u8
-#EXTINF:-1,TV GAZETA PA HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1759650936.m3u8
-#EXTINF:-1,COMBATE HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
-#EXTINF:-1,NICK HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
-#EXTINF:-1,RETRÔ CARTOON SD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://stmv1.srvif.com:443/retrotv/retrotv/chunklist_w1171135282.m3u8
-#EXTINF:-1,CANÇÃO NOVA HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w1781839972.m3u8
-#EXTINF:-1,TV EVANGELIZAR HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://5f593df7851db.streamlock.net:443/evangelizar/tv/chunklist_w1362209305.m3u8
-#EXTINF:-1,TV NOVO TEMPO HD
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://stream.live.novotempo.com:443/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://15.235.55.115:14542
-#EXTINF:-1,NICK
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://15.235.55.115:14544
-#EXTINF:-1,TCM
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://37.49.230.42:8080/Jhgsdf/3f140eff/8853
-#EXTINF:-1,gnt
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://37.49.230.42:8080/Jhgsdf/3f140eff/8856
-#EXTINF:-1,Paramount
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://37.49.230.42:8080/Jhgsdf/3f140eff/8859
-#EXTINF:-1,Food Netword
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://37.49.230.42:8080/Jhgsdf/3f140eff/8863
-#EXTINF:-1,MEZZO
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://37.49.230.42:8080/Jhgsdf/3f140eff/8099
-#EXTINF:-1,A&E
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://187.95.95.243/AE/index.m3u8
-#EXTINF:-1,cNN Brasil
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://187.95.95.243/mtv/mono.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://45.58.126.146:14299/axn
-#EXTINF:-1,Record news
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,History
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br:80/History/tracks-v1a1/mono.m3u8
-#EXTINF:-1,History
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br/History/video.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
-#EXTINF:-1,Paramount
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br:80/paramount/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Paramount
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br/paramount/index.m3u8
-#EXTINF:-1,Cinecanal
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br:80/cinecanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cinecanal
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br/cinecanal/index.m3u8
-#EXTINF:-1,BandNews
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BandNews
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br/Band-News/index.m3u8
-#EXTINF:-1,BandSports
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br:80/Band-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BandSports
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-#EXTINF:-1,Arte 1
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://187.95.95.243/ArteHD/mono.m3u8
 #EXTINF:-1,tvg-id="H2" tvg-name="H2 FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | Documentários",H2 FHD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
