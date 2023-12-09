@@ -149,7 +149,7 @@ http://187.95.95.247/h2/index.m3u8
 
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/715
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
 http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/362
 
