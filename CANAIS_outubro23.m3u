@@ -69,5 +69,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3976
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3811
 #EXTINF:-1, tvg-id="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1240.png" group-title="Canais | Canal",SPORTV 2 HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3809
+#EXTINF:-1, tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Canais | Canal",PREMIERE CLUBES HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3855
 
 
