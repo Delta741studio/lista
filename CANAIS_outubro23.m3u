@@ -35,3 +35,19 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3703
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3702
 #EXTINF:-1, tvg-id="BBB" tvg-name="BBB cam4" tvg-logo="https://s2-ego.glbimg.com/koRW_pbmZmaFlzbZQlrkJ0eaAYM=/620x0/top/s.glbimg.com/jo/eg/f/original/2017/01/04/7.jpg" group-title="Canais | Canal",BBB CAM 4
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3701
+#EXTINF:-1, tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/1024px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Canais | Canal",CARTOON NETWORK HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4038
+#EXTINF:-1, tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Canal",GLOBO SP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4880
+#EXTINF:-1, tvg-id="Canal" tvg-name="Canal" tvg-logo="" group-title="Canais | Canal",GLOBO SP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4795
+#EXTINF:-1, tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Canal",GLOBO SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3943
+#EXTINF:-1, tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Canal",GLOBO SP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3942
+#EXTINF:-1, tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="Canais | Canal",RECORD SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3836
+#EXTINF:-1, tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://seeklogo.com/images/S/sbt-logo-D5896BC8BB-seeklogo.com.png" group-title="Canais | Canal",SBT SP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4895
+#EXTINF:-1, tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://seeklogo.com/images/S/sbt-logo-D5896BC8BB-seeklogo.com.png" group-title="Canais | Canal",SBT SP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4817
