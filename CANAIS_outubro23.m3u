@@ -1111,7 +1111,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6873
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4895
 #EXTINF:-1,SBT SP FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4817
-#EXTINF:-1,SBT SP HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",SBT SP HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3824
 #EXTINF:-1,SBT SP SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3823
@@ -1135,7 +1135,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3821
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7371
 #EXTINF:-1,SEXY HOT HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3820
-#EXTINF:-1,SEXY HOT SD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",SEXY HOT SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3819
 #EXTINF:-1,SIC INTERNACIONAL FHD (P)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7360
@@ -1143,15 +1143,15 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7360
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7361
 #EXTINF:-1,SIC INTERNACIONAL SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4963
-#EXTINF:-1,SPACE FHD H265 [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",SPACE FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6785
 #EXTINF:-1,SPACE FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3814
-#EXTINF:-1,SPACE HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",SPACE HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3813
 #EXTINF:-1,SPACE SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3812
-#EXTINF:-1,SPORTV 2 FHD H265 [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",SPORTV 2 FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4897
 #EXTINF:-1,SPORTV 2 FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4820
@@ -1159,7 +1159,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4820
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3809
 #EXTINF:-1,SPORTV 2 SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3808
-#EXTINF:-1,SPORTV 3 FHD H265 [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",SPORTV 3 FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4898
 #EXTINF:-1,SPORTV 3 FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4821
@@ -1171,11 +1171,11 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3806
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4899
 #EXTINF:-1,SPORTV FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4819
-#EXTINF:-1,SPORTV HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",SPORTV HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3811
 #EXTINF:-1,SPORTV SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3810
-#EXTINF:-1,STAR CHANNEL FHD H265 [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",STAR CHANNEL FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4921
 #EXTINF:-1,STAR CHANNEL FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3805
@@ -1211,7 +1211,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3785
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4901
 #EXTINF:-1,TELECINE ACTION FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3784
-#EXTINF:-1,TELECINE ACTION HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TELECINE ACTION HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3783
 #EXTINF:-1,TELECINE ACTION SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3782
@@ -1227,7 +1227,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3779
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4903
 #EXTINF:-1,TELECINE FUN FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3778
-#EXTINF:-1,TELECINE FUN HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TELECINE FUN HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3777
 #EXTINF:-1,TELECINE FUN SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3776
@@ -1235,7 +1235,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3776
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4904
 #EXTINF:-1,TELECINE PIPOCA FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3775
-#EXTINF:-1,TELECINE PIPOCA HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TELECINE PIPOCA HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3774
 #EXTINF:-1,TELECINE PIPOCA SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3773
@@ -1251,7 +1251,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3770
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4906
 #EXTINF:-1,TELECINE TOUCH FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3769
-#EXTINF:-1,TELECINE TOUCH HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TELECINE TOUCH HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3768
 #EXTINF:-1,TELECINE TOUCH SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3767
@@ -1267,17 +1267,17 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4824
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3766
 #EXTINF:-1,TLC SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3765
-#EXTINF:-1,TNT FHD H265 [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TNT FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4907
 #EXTINF:-1,TNT FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3764
-#EXTINF:-1,TNT HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TNT HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3763
 #EXTINF:-1,TNT SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3762
 #EXTINF:-1,TNT SERIES FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4908
-#EXTINF:-1,TNT SÉRIES FHD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TNT SÉRIES FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3759
 #EXTINF:-1,TNT SÉRIES HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3761
@@ -1285,7 +1285,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3761
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3760
 #EXTINF:-1,TOONCAST FHD (P)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7372
-#EXTINF:-1,TOONCAST HD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",TOONCAST HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3758
 #EXTINF:-1,TOONCAST SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3757
@@ -3451,13 +3451,13 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7909
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7910
 #EXTINF:-1,RECORD TV TROPICAL FHD (P)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7911
-#EXTINF:-1,HBO MAX STAR + 4
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",HBO MAX STAR + 4
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7913
 #EXTINF:-1,RECORD CAMPINAS SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7914
 #EXTINF:-1,RECORD SJRP FHD (P)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7915
-#EXTINF:-1,RECORD SJRP HD (P)
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",RECORD SJRP HD (P)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7916
 #EXTINF:-1,PREMIERE 8 SD
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7928
@@ -3469,7 +3469,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7930
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7931
 #EXTINF:-1,CAZE TV 3
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7932
-#EXTINF:-1,ADULT SWIN HD
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",ADULT SWIN HD
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7934
 #EXTINF:-1,ADULT SWIN SD
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7935
@@ -3555,7 +3555,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6925
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6926
 #EXTINF:-1,GLOBO REDE AMAZONICA RONDONIA HD (BR2)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6927
-#EXTINF:-1,GLOBO RJ FHD H265 (BR2)
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/8290035-on-line-canal-de-tv-logo-design-modelo-icone-de-tv-branco-botao-reproduzir-transmissao-ao-vivo-entretenimento-empresa-antena-amarelo-laranja-preto-vetor.jpg" group-title="Canais | Canal",GLOBO RJ FHD H265 (BR2)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6928
 #EXTINF:-1,GLOBO RJ HD (BR2)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6929
