@@ -49,5 +49,15 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4895
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4817
 #EXTINF:-1, tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://w7.pngwing.com/pngs/72/50/png-transparent-rede-telecine-telecine-premium-telecine-action-telecine-pipoca-telecine-fun-fm-latina-television-text-logo-thumbnail.png" group-title="Canais | Canal",TELECINE ACTION HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3783
+#EXTINF:-1, tvg-id="PIPOCA HD" tvg-name="PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="Canais | Canal",TELECINE PIPOCA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3774
+#EXTINF:-1, tvg-id="TELECINE FUN HD" tvg-name="TELECINE FUN HD" tvg-logo="https://cdn.reweb.io/hagah/image/WCJ0rxJRNKLniud6FI4mpJNzLHk=/300x300/top/smart/hagah/5/53/telecine-fun-hd-530b1fcc.jpg" group-title="Canais | Canal",TELECINE FUN HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3777
+#EXTINF:-1, tvg-id="Canal" tvg-name="Canal" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/03/novo-logo-canal-viva.jpg" group-title="Canais | Canal",VIVA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3741
+#EXTINF:-1, tvg-id="DISNEY CHANNEL HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2020/08/original_1597335103_DISNEY_LOGO_Blue.jpg" group-title="Canais | Canal",DISNEY CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3989
+#EXTINF:-1, tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="Canais | Canal",SPACE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3813
 
 
