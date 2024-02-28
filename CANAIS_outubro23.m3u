@@ -41,3 +41,11 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4038
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4880
 #EXTINF:-1, tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Canal",GLOBO SP FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4795
+#EXTINF:-1, tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="Canais | Canal",RECORD SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3836
+#EXTINF:-1, tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://seeklogo.com/images/S/sbt-logo-D5896BC8BB-seeklogo.com.png" group-title="Canais | Canal",SBT SP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4895
+#EXTINF:-1, tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://seeklogo.com/images/S/sbt-logo-D5896BC8BB-seeklogo.com.png" group-title="Canais | Canal",SBT SP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4817
+
+
