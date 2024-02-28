@@ -71,5 +71,9 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3811
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3809
 #EXTINF:-1, tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Canais | Canal",PREMIERE CLUBES HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3855
+#EXTINF:-1, tvg-id="HBO 2 HD " tvg-name="HBO 2 HD " tvg-logo="https://logowik.com/content/uploads/images/hbo-2-hd-nl3042.logowik.com.webp" group-title="Canais | Canal",HBO 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3921
+#EXTINF:-1, tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png" group-title="Canais | Canal",HBO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3915
 
 
