@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="" group-title="Canais | Canal",A&E FHD H265 [P]
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="Canais | Canal",A&E FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4864
-#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="" group-title="Canais | Canal",A&E FHD [P]
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="Canais | Canal",A&E FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4085
-#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="" group-title="Canais | Canal",A&E HD [P]
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="Canais | Canal",A&E HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4084
-#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="" group-title="Canais | Canal",A&E SD [P]
+#EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="Canais | Canal",A&E SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4083
 #EXTINF:-1 tvg-id="Canal" tvg-name="Canal" tvg-logo="" group-title="Canais | Canal",AGRO MAIS FHD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4844
