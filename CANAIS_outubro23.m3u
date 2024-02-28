@@ -59,5 +59,15 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3741
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3989
 #EXTINF:-1, tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="Canais | Canal",SPACE HD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3813
+#EXTINF:-1, tvg-id="REDE TV " tvg-name="REDE TV " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Canais | Canal",REDE TV ESPÍRITO SANTO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6882
+#EXTINF:-1, tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Canais | Canal",ESPN HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3980
+#EXTINF:-1, tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Canais | Canal",ESPN2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3976
+#EXTINF:-1, tvg-id="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg" group-title="Canais | Canal",SPORTV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3811
+#EXTINF:-1, tvg-id="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1240.png" group-title="Canais | Canal",SPORTV 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3809
 
 
