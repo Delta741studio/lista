@@ -23,3 +23,15 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4082
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4081
 #EXTINF:-1, tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://e1.pngegg.com/pngimages/416/781/png-clipart-tv-channel-icons-animal-planet-black-animal-planet-logo.png" group-title="Canais | Canal",ANIMAL PLANET FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4911
+#EXTINF:-1, tvg-id="ARTE1" tvg-name="ARTE1" tvg-logo="https://imagem.natelinha.uol.com.br/original/arte1-logo_2593174c02fdba9458fbf1a47c86c1cc9ce6dd11.jpeg" group-title="Canais | Canal",ARTE1 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4836
+#EXTINF:-1, tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEiIU60DVLPRHUIHptdoZxTlW-oVKcgHijDyPmYswY2haAr8p7BFz9Bs4dQiOoAW3vmks&usqp=CAU" group-title="Canais | Canal",BAND SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4067
+#EXTINF:-1, tvg-id="BBB" tvg-name="BBB cam1" tvg-logo="https://s2-ego.glbimg.com/koRW_pbmZmaFlzbZQlrkJ0eaAYM=/620x0/top/s.glbimg.com/jo/eg/f/original/2017/01/04/7.jpg" group-title="Canais | Canal",BBB CAM 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3706
+#EXTINF:-1, tvg-id="BBB" tvg-name="BBB cam2" tvg-logo="https://s2-ego.glbimg.com/koRW_pbmZmaFlzbZQlrkJ0eaAYM=/620x0/top/s.glbimg.com/jo/eg/f/original/2017/01/04/7.jpg" group-title="Canais | Canal",BBB CAM 2 
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3703
+#EXTINF:-1, tvg-id="BBB" tvg-name="BBB cam3" tvg-logo="https://s2-ego.glbimg.com/koRW_pbmZmaFlzbZQlrkJ0eaAYM=/620x0/top/s.glbimg.com/jo/eg/f/original/2017/01/04/7.jpg" group-title="Canais | Canal",BBB CAM 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3702
+#EXTINF:-1, tvg-id="BBB" tvg-name="BBB cam4" tvg-logo="https://s2-ego.glbimg.com/koRW_pbmZmaFlzbZQlrkJ0eaAYM=/620x0/top/s.glbimg.com/jo/eg/f/original/2017/01/04/7.jpg" group-title="Canais | Canal",BBB CAM 4
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3701
