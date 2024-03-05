@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg/revision/latest/scale-to-width-down/250?cb=20200520190424" group-title="RBS Porto Alegre",RBS Porto Alegre
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg/revision/latest/scale-to-width-down/250?cb=20200520190424" group-title="RBS Porto Alegre",RBS Porto Alegre
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/640px-Band_Marca.svg.png" group-title="Band SP",Band SP
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/640px-Band_Marca.svg.png" group-title="Band SP",Band SP
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/e3/00/21e3003ec3d409188f41649545b91727.png" group-title="TV Aparecida",TV Aparecida
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/21/e3/00/21e3003ec3d409188f41649545b91727.png" group-title="TV Aparecida",TV Aparecida
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="Record Brasília",Record Brasília
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="Record Brasília",Record Brasília
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg" group-title="Globo RPC Maringá",Globo RPC Maringá
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg" group-title="Globo RPC Maringá",Globo RPC Maringá
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="Space",Space
+#EXTINF:-1, tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="Space",Space
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/53/15/7a/53157ad3fbc706a055ca4205b5c6f226.jpg" group-title="Cinemax",Cinemax
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/736x/53/15/7a/53157ad3fbc706a055ca4205b5c6f226.jpg" group-title="Cinemax",Cinemax
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/SBT_2014.svg/revision/latest?cb=20211230120715&path-prefix=pt-br" group-title="SBT Serra Dourada",SBT Serra Dourada
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/SBT_2014.svg/revision/latest?cb=20211230120715&path-prefix=pt-br" group-title="SBT Serra Dourada",SBT Serra Dourada
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/A_and_E_Television-logo-7B0533280E-seeklogo.com.png" group-title="A&E",A&E
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/A/A_and_E_Television-logo-7B0533280E-seeklogo.com.png" group-title="A&E",A&E
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/41
-#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" group-title="Record DF",Record DF
+#EXTINF:-1, tvg-logo="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" group-title="Record DF",Record DF
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/40
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/08/novo-logo-tv-record-destaque-blog-gkpb.jpg" group-title="Record Bahia",Record Bahia
+#EXTINF:-1, tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/08/novo-logo-tv-record-destaque-blog-gkpb.jpg" group-title="Record Bahia",Record Bahia
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
-#EXTINF:-1 tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="Amazon 3",Amazon 3
+#EXTINF:-1, tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="Amazon 3",Amazon 3
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/20
-#EXTINF:-1 tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="Amazon 4",Amazon 4
+#EXTINF:-1, tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="Amazon 4",Amazon 4
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/19
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Band Minas 4K",Band Minas 4K
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Band Minas 4K",Band Minas 4K
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
 #EXTINF:-1 tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="Amazon Prime Video 2 HD",Amazon Prime Video 2 HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/12
-#EXTINF:-1 tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="Amazon Prime Video 1 HD",Amazon Prime Video 1 HD
+#EXTINF:-1, tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="Amazon Prime Video 1 HD",Amazon Prime Video 1 HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/11
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Globo Minas 4K",Globo Minas 4K
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Globo Minas 4K",Globo Minas 4K
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Premiere Clubes 4K",Premiere Clubes 4K
+#EXTINF:-1, tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Premiere Clubes 4K",Premiere Clubes 4K
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg" group-title="ESPN 1 HD",ESPN 1 HD
+#EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg" group-title="ESPN 1 HD",ESPN 1 HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
-#EXTINF:-1 tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Premiere 4 4K",Premiere 4 4K
+#EXTINF:-1, tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Premiere 4 4K",Premiere 4 4K
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/08/13152052/DISNEYLogo.jpg?fit=1920%2C1080&ssl=1" group-title="Disney Channel HD",Disney Channel HD
+#EXTINF:-1, tvg-logo="https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/08/13152052/DISNEYLogo.jpg?fit=1920%2C1080&ssl=1" group-title="Disney Channel HD",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Globo EPTV Campinas HD",Globo EPTV Campinas HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Globo EPTV Campinas HD",Globo EPTV Campinas HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Combate HD",Combate HD
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Combate HD",Combate HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
