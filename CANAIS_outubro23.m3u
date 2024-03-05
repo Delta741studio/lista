@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="BBB" tvg-name="BBB 24 FHD" tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/10/23/2012419293-4412571-bbb-24-vem-ai-ex-mulher-de-ator-famos-1400x823-3.png" group-title="CANAIS | BBB",BBB 24 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 #EXTINF:-1, tvg-id="RBS Porto Alegre" tvg-name="RBS Porto Alegre" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg" group-title="CANAIS | 1",RBS Porto Alegre
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 #EXTINF:-1, tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/640px-Band_Marca.svg.png" group-title="CANAIS | 1",Band SP
@@ -9,7 +7,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
 #EXTINF:-1, tvg-id="Record Brasília" tvg-name="Record Brasília" tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="CANAIS | 1",Record Brasília
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
-#EXTINF:-1, tvg-id="Globo RPC Maringá" tvg-name="Globo RPC Maringá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg" group-title="CANAIS | 1",Globo RPC Maringá
+#EXTINF:-1, tvg-id="Globo RPC Maringá" tvg-name="Globo RPC Maringá" tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="CANAIS | 1",Globo RPC Maringá
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 #EXTINF:-1, tvg-id="Space" tvg-name="Space" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS | 1",Space
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
