@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="Music 80" tvg-name="Music 80" tvg-logo="https://i.ytimg.com/vi/KdokUn33kYs/maxresdefault.jpg" group-title="CANAIS | 1",Music 80
-https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8
+http://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
 #EXTINF:-1, tvg-id="RBS Porto Alegre" tvg-name="RBS Porto Alegre" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg" group-title="CANAIS | 1",RBS Porto Alegre
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 #EXTINF:-1, tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/640px-Band_Marca.svg.png" group-title="CANAIS | 1",Band SP
