@@ -2,6 +2,6 @@
 #EXTINF:-1,tvg-id="BBB" tvg-name="BBB 24 FHD" tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/10/23/2012419293-4412571-bbb-24-vem-ai-ex-mulher-de-ator-famos-1400x823-3.png" group-title="CANAIS | BBB",BBB 24 FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS |Animation",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-name= "Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CANAIS |Animation",Filmstream
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+http://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-name= "Filmstream.nl" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS |Animation",Filmstream
+http://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
