@@ -3,5 +3,5 @@
 http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS |Animation",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-name= "Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-name= "Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CANAIS |Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
